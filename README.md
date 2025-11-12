@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Birunthaban)
 
 ### Hi there 👋 I'm Mathias,
 
