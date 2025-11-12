@@ -1,4 +1,4 @@
-![]
+
 ### Hi there 👋 I'm Mathias,
 
 I'm a 4th-year Computer Engineering undergraduate at the Universidad Nacional de Trujillo.
