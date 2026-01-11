@@ -1,13 +1,12 @@
 
 ### Hi there 👋 I'm Mathias,
 
-I'm a 4th-year Computer Engineering undergraduate at the Universidad Nacional de Trujillo.
-    <ul>
-      <li>💡 <strong>Passionate about:</strong> software development, security, and optimization.</li>
-      <li>🧠 <strong>Foundations:</strong> Object-Oriented Programming, Data Structures, and Algorithmic Strategies (including shortest-path, etc.).</li>
-      <li>🔭 <strong>Focus:</strong> software engineering and secure system design, exploring modern development practices.</li>
-      <li>💬 <strong>Interests:</strong> technology, science, and ideas that challenge the way we think.</li>
-    </ul>
+I’m a **3rd-year Computer Engineering undergraduate** at the **Universidad Nacional de Trujillo**.
+
+My background focuses on **programming and core computational foundations**, with a solid base in **Object-Oriented Programming, Data Structures, and Algorithms**, as well as knowledge of **digital systems and computer architecture and organization**. I also have knowledge of **Machine Learning and Artificial Intelligence**, with an emphasis on **data handling and analysis**, and an interest in **Computer Vision** applied to intelligent systems.
+
+I’m interested in **well-structured software development**, the design of **robust technical solutions**, and a deep understanding of the **models and algorithms** behind modern computing systems. My goal is to grow as a developer and engineer by applying **theory and practice** to solve real-world problems.
+
 
 ## My Skills Include
 
