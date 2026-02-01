@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Mathias,
+### Hi there I'm Mathias,
 
 I’m a **3rd-year Computer Engineering undergraduate** at the **Universidad Nacional de Trujillo**.
 
