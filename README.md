@@ -40,11 +40,14 @@ My background focuses on computational foundations such as data structures, algo
 
 ## Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn
-https://www.linkedin.com/in/huanca-pretell-mathias-5a60913aa/
+<a href="https://www.linkedin.com/in/huanca-pretell-mathias-5a60913aa/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Email
-[zc4rfac3@gmail.com](mailto:zc4rfac3@gmail.com)
+<a href="https://discord.gg/US7sYNpV">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) Discord
-mmathias__
+<a href="mailto:zc4rfac3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
