@@ -39,11 +39,13 @@ My background focuses on computational foundations such as data structures, algo
 <a href="https://www.linkedin.com/in/huanca-pretell-mathias-5a60913aa/" style="margin-right:30px;">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/US7sYNpV" style="margin-right:10px;">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-
+</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:zc4rfac3@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
