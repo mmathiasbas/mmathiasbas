@@ -10,8 +10,6 @@ Alongside my software background, I have basic knowledge of digital electronics 
 
 My goal is to grow as an engineer capable of designing robust computational solutions and applying machine learning models to real-world problems.
 
----
-
 ## Core Competencies
 
 **Algorithms and Computational Thinking**
