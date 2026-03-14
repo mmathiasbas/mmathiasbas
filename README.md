@@ -10,7 +10,7 @@ My background focuses on computational foundations such as data structures, algo
 
 * Data structures and algorithm design
 * Complexity analysis and performance considerations
-* Algorithmic strategies: greedy methods, dynamic programming, brute force, heuristics and metaheuristics
+* Algorithmic strategies: greedy methods, dynamic programming, brute force and heuristics
 
 **Programming Paradigms**
 
