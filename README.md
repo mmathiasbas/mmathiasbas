@@ -4,8 +4,6 @@ Computer Engineering undergraduate at the Universidad Nacional de Trujillo with 
 
 My background focuses on computational foundations such as data structures, algorithm design, and programming paradigms. I’m particularly interested in applying algorithmic thinking and machine learning models to solve real-world problems.
 
----
-
 ## Core Areas
 
 **Algorithms & Computational Thinking**
@@ -36,7 +34,6 @@ My background focuses on computational foundations such as data structures, algo
 * Basic digital electronics
 * Arduino-based prototyping
 
----
 
 ## Connect With Me
 
