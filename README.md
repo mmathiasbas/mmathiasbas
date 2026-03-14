@@ -34,14 +34,13 @@ My background focuses on computational foundations such as data structures, algo
 * Basic digital electronics
 * Arduino-based prototyping
 
-
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/huanca-pretell-mathias-5a60913aa/">
+<a href="https://www.linkedin.com/in/huanca-pretell-mathias-5a60913aa/" style="margin-right:10px;">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://discord.gg/US7sYNpV">
+<a href="https://discord.gg/US7sYNpV" style="margin-right:10px;">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
