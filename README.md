@@ -36,7 +36,7 @@ My background focuses on computational foundations such as data structures, algo
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/huanca-pretell-mathias-5a60913aa/" style="margin-right:10px;">
+<a href="https://www.linkedin.com/in/huanca-pretell-mathias-5a60913aa/" style="margin-right:30px;">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
