@@ -1,38 +1,38 @@
 ## Hi there, I'm Mathias
 
-Computer Engineering undergraduate at the Universidad Nacional de Trujillo with a strong interest in Machine Learning and intelligent systems.
+Computer Engineering undergraduate at the Universidad Nacional de Trujillo with a strong interest in Machine Learning and intHi there, I'm Mathias
 
-My background focuses on computational foundations such as data structures, algorithm design, and programming paradigms. I’m particularly interested in applying algorithmic thinking and machine learning models to solve real-world problems.
+Computer Engineering undergraduate at Universidad Nacional de Trujillo, focused on building intelligent systems by combining Artificial Intelligence, software engineering, and algorithmic thinking.
+
+I’m interested in designing and developing end-to-end AI-driven applications — from core logic and optimization algorithms to backend systems and user-facing interfaces.
 
 ## Core Areas
 
-**Algorithms & Computational Thinking**
+### Artificial Intelligence & Intelligent Systems
+- Design and integration of AI-driven solutions
+- Foundations of machine learning and deep learning
+- Applied AI for real-world problem solving
 
-* Data structures and algorithm design
-* Complexity analysis and performance considerations
-* Algorithmic strategies: greedy methods, dynamic programming, brute force and heuristics
+### Algorithms & Optimization
+- Data structures and algorithm design
+- Complexity analysis and performance optimization
+- Algorithmic strategies: brute force, greedy, dynamic programming, heuristics and metaheuristics
 
-**Programming Paradigms**
+### Software Engineering
+- Object-Oriented Programming and multi-paradigm development
+- SOLID principles and design patterns
+- Clean and modular software design
+- Architectural approaches: Hexagonal Architecture and Vertical Slicing
+- Scalable and maintainable system design
 
-* Object-Oriented Programming
-* Structured and modular software design
-* Understanding of multiple programming paradigms
+### Fullstack Development
+- Backend development (APIs, system logic)
+- Frontend development (modern web technologies)
+- Database design and management (SQL and relational systems)
 
-**Machine Learning**
-
-* Supervised, unsupervised, and reinforcement learning
-* Model evaluation and feature engineering
-* Data preprocessing and analysis
-
-**Artificial Intelligence**
-
-* Neural network fundamentals
-* Deep learning concepts
-
-**Additional Background**
-
-* Basic digital electronics
-* Arduino-based prototyping
+### Mindset
+- Strong focus on problem-solving, system design, and continuous learning.
+- Interested in building impactful and efficient intelligent systems.
 
 ## Connect With Me
 
