@@ -90,7 +90,7 @@ My main focus is backend and fullstack development, with interests in scalable s
 ## Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/mathias-sebastian-huanca-pretell-5a60913aa">
+  <a href="https://www.linkedin.com/in/mathias-sebastian-huanca-pretell-5a60913aa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;
