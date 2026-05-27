@@ -94,7 +94,7 @@ My main focus is backend and fullstack development, with interests in scalable s
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/US7sYNpV">
+  <a href="discordapp.com/users/724438872997495137">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   &nbsp;&nbsp;
