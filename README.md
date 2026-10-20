@@ -1,54 +1,60 @@
 # Hola, soy Mathias 👋
 
-### Estudiante de Ingeniería Informática enfocado en Machine Learning, Inteligencia Artificial y desarrollo de sistemas inteligentes escalables.
+### Software Developer | Computer Science | Backend & Software Architecture
 
-Estudiante de Ingeniería Informática en la Universidad Nacional de Trujillo, especializado en Machine Learning e Inteligencia Artificial, apasionado por construir sistemas inteligentes capaces de resolver problemas reales mediante datos, algoritmos y sólidas prácticas de ingeniería de software.
+Desarrollador de software con formación en Ciencias de la Computación e Ingeniería Informática en la Universidad Nacional de Trujillo. Me interesa diseñar y construir soluciones de software robustas, mantenibles y escalables, aplicando buenas prácticas de ingeniería, pensamiento algorítmico y principios de diseño de sistemas.
 
-Mi enfoque principal es el desarrollo de soluciones basadas en IA, abarcando desde el procesamiento y análisis de datos hasta el entrenamiento, evaluación y despliegue de modelos de Machine Learning. Complemento este enfoque con conocimientos en ingeniería de software, arquitectura de sistemas y desarrollo backend para construir soluciones robustas y escalables.
+Mi enfoque principal es el desarrollo de software, desde el diseño de arquitecturas y la implementación de lógica de negocio hasta la construcción de APIs, la gestión de bases de datos y el desarrollo de aplicaciones completas. Busco escribir código limpio, comprender los problemas desde sus fundamentos y crear soluciones que puedan evolucionar y mantenerse a largo plazo.
+
+Complemento mi formación con conocimientos en Machine Learning, Inteligencia Artificial y Ciencia de Datos, áreas que me permiten explorar distintas formas de resolver problemas e integrar capacidades inteligentes en aplicaciones de software.
 
 ---
 
 ## Enfoque Actual
 
-* Machine Learning
-* Inteligencia Artificial Aplicada
-* Ciencia de Datos y Análisis de Datos
-* Diseño de Sistemas Inteligentes Escalables
-* Ingeniería de Software para Sistemas de IA
-* Algoritmos y Optimización
+* Desarrollo de Software y Diseño de Sistemas
+* Ingeniería de Software y Arquitectura de Aplicaciones
+* Backend Development y Diseño de APIs
+* Algoritmos, Estructuras de Datos y Optimización
+* Bases de Datos y Sistemas Distribuidos
+* Machine Learning e Inteligencia Artificial Aplicada
 
 ---
 
 ## Áreas de Especialización
 
-### Machine Learning e Inteligencia Artificial
+### Software Engineering
 
-* Desarrollo, entrenamiento y evaluación de modelos de Machine Learning
-* Preprocesamiento, análisis y transformación de datos
-* Diseño e implementación de sistemas inteligentes
-* Desarrollo de soluciones basadas en Deep Learning, aprendizaje supervisado, aprendizaje no supervisado y aprendizaje por reforzamiento
-* Integración de modelos de IA en aplicaciones reales
+* Programación Orientada a Objetos y desarrollo multiparadigma.
+* Principios SOLID y patrones de diseño.
+* Clean Code, modularidad y separación de responsabilidades.
+* Diseño de software mantenible, reutilizable y escalable.
+* Arquitecturas como Hexagonal Architecture y Vertical Slicing.
+* Aplicación de buenas prácticas de ingeniería durante el desarrollo.
 
-### Algoritmos y Optimización
+### Backend & System Development
 
-* Diseño de algoritmos y estructuras de datos
-* Análisis de complejidad y optimización de rendimiento
-* Estrategias algorítmicas como fuerza bruta, programación dinámica, algoritmos voraces, heurísticas y backtracking
+* Desarrollo de APIs REST y lógica de negocio.
+* Diseño e implementación de servicios backend.
+* Diseño, modelado y gestión de bases de datos relacionales.
+* Desarrollo de sistemas cliente-servidor y aplicaciones en tiempo real.
+* Autenticación, autorización e integración entre servicios.
+* Construcción de aplicaciones orientadas a la escalabilidad y mantenibilidad.
 
-### Ingeniería de Software
+### Algorithms & Computer Science
 
-* Programación Orientada a Objetos y desarrollo multiparadigma
-* Principios SOLID y patrones de diseño
-* Diseño de software limpio, modular y escalable
-* Arquitecturas como Hexagonal Architecture y Vertical Slicing
-* Desarrollo de sistemas mantenibles orientados a producción
+* Diseño y análisis de algoritmos y estructuras de datos.
+* Análisis de complejidad computacional y optimización.
+* Estrategias algorítmicas: fuerza bruta, programación dinámica, algoritmos voraces, heurísticas y backtracking.
+* Resolución de problemas mediante razonamiento lógico y pensamiento computacional.
 
-### Backend y Sistemas
+### Machine Learning & Artificial Intelligence
 
-* Desarrollo de APIs y lógica de negocio
-* Diseño y gestión de bases de datos relacionales
-* Desarrollo de sistemas cliente-servidor y aplicaciones en tiempo real
-* Construcción de servicios escalables para aplicaciones inteligentes
+* Desarrollo, entrenamiento y evaluación de modelos de Machine Learning.
+* Preprocesamiento, análisis y transformación de datos.
+* Aprendizaje supervisado, no supervisado y fundamentos de Deep Learning.
+* Experimentación con algoritmos y evaluación de modelos.
+* Integración de modelos de IA en aplicaciones y servicios de software.
 
 ---
 
@@ -90,10 +96,12 @@ Mi enfoque principal es el desarrollo de soluciones basadas en IA, abarcando des
 
 ## Mentalidad
 
-* Fuerte enfoque en arquitectura limpia, mantenibilidad y escalabilidad
-* Orientado al desarrollo de sistemas inteligentes con impacto en problemas reales
-* Interesado en la intersección entre IA, algoritmos e ingeniería de software
-* Aprendiz continuo comprometido con el crecimiento técnico a largo plazo
+* **Software first:** Priorizo el diseño y desarrollo de soluciones que resuelvan problemas reales.
+* **Clean Architecture:** Valoro la separación de responsabilidades, la modularidad y la mantenibilidad del código.
+* **Pensamiento algorítmico:** Busco comprender los problemas y elegir soluciones eficientes.
+* **Escalabilidad:** Considero cómo evolucionarán los sistemas más allá de su implementación inicial.
+* **Aprendizaje continuo:** Mantengo una mentalidad de mejora constante en ingeniería de software, Computer Science y tecnologías emergentes.
+* **IA como complemento:** Me interesa aplicar conocimientos de Machine Learning e Inteligencia Artificial cuando aportan valor a una solución.
 
 ---
 
